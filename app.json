@@ -1,0 +1,11 @@
+{
+  "name": "inspection-app-extend",
+  "description": "Inspection App Extension",
+  "keywords": [
+    "Inspection"
+  ],
+  "repository": "https://github.com/SuperBubulus/inspection-app-extend",
+  "addons": [
+    "heroku-postgresql"
+  ]
+}
